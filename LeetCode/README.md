@@ -12,6 +12,7 @@ The distance used in this problem is the Manhattan distance: the distance betwe
 
 If no land or water exists in the grid, return -1.
 
+
 ```java
 class Solution {
     
