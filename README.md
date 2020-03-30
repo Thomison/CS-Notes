@@ -14,5 +14,5 @@
 
 - [最后剩下的数字](https://github.com/Thomison/CS-Notes/blob/master/LeetCode/Java/JosephusProblem.java) [约瑟夫环问题]
 - [离陆地最远的海洋区域](https://github.com/Thomison/CS-Notes/blob/master/LeetCode/Java/AsFarFromLandAsPossible.java) [广度优先搜索]
-- [单词的最短编码](https://github.com/Thomison/CS-Notes/blob/master/LeetCode/Java/ShortEncodingOfWords.java)
+- [单词的最短编码](https://github.com/Thomison/CS-Notes/blob/master/LeetCode/Java/ShortEncodingOfWords.java) [字典树]
 
