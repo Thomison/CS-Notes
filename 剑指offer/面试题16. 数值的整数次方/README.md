@@ -22,7 +22,8 @@
 
 最后总结公式如下：
 
-$$ a^n=\left\{
+$$ 
+a^n=\left\{
 \begin{aligned}
 a^{n/2}\times a^{n/2}, even \\
 a^{n/2}\times a^{n/2} \times a, odd
