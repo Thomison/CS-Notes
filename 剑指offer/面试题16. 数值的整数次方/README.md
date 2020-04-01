@@ -31,6 +31,8 @@ a^{n/2}\times a^{n/2} \times a, odd
 \right.
 $$
 
+![G8Xoc9.png](https://s1.ax1x.com/2020/04/02/G8Xoc9.png)
+
 
 
 可以通过递归实现上述求解幂值的过程，时间复杂度为`O(logn)`。
