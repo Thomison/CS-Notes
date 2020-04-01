@@ -22,3 +22,4 @@
 
 ## [剑指offer](https://github.com/Thomison/CS-Notes/tree/master/%E5%89%91%E6%8C%87offer)
 
+- [面试题16. 数值的整数次方](https://github.com/Thomison/CS-Notes/blob/master/%E5%89%91%E6%8C%87offer/%E9%9D%A2%E8%AF%95%E9%A2%9816.%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9/README.md)
